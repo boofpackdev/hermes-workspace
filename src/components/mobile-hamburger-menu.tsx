@@ -14,8 +14,9 @@ import {
   PuzzleIcon,
   Rocket01Icon,
   Settings01Icon,
+  Terminal01Icon,
   UserGroupIcon,
-  UserMultipleIcon,
+  ZapIcon,
 } from '@hugeicons/core-free-icons'
 import { useEffect, useState } from 'react'
 import { cn } from '@/lib/utils'
