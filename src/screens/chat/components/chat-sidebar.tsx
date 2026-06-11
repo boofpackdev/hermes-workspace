@@ -16,6 +16,7 @@ import {
   Moon02Icon,
   PencilEdit02Icon,
   PuzzleIcon,
+  Rocket01Icon,
   Search01Icon,
   Settings01Icon,
   Sun02Icon,

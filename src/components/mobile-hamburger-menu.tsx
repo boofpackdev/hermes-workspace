@@ -16,6 +16,7 @@ import {
   Settings01Icon,
   Terminal01Icon,
   UserGroupIcon,
+  UserMultipleIcon,
   ZapIcon,
 } from '@hugeicons/core-free-icons'
 import { useEffect, useState } from 'react'
