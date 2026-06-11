@@ -12,6 +12,7 @@ import {
   McpServerIcon,
   Menu01Icon,
   PuzzleIcon,
+  Rocket01Icon,
   Settings01Icon,
   UserGroupIcon,
   UserMultipleIcon,
